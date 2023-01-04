@@ -1,6 +1,6 @@
-# financial_market_dashboard
+# Financial Market dashboard 
 
-Financial Market dashboard using:
+## Using:
 
 - yfinance — for downloading data from yahoo finance.
 - pandas — for data manipulations.
@@ -8,7 +8,7 @@ Financial Market dashboard using:
 - plotly — to make the charts. .
 
 
-For:
+## For:
 
 - Charts to show where money-flow is in the market, with controllable charts types, time-lengths and aggregation types.
 - Show me the largest gainers in the stock-market, with controllable time-lengths and a minimum percentage threshold.
